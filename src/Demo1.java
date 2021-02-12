@@ -7,6 +7,8 @@ public class Demo1
     	int b=3;
     	int c;
     	c=a+b;
+        c=b-a;
+        System.out.println(""+c);
     	System.out.println(""+c);
     }
 }
